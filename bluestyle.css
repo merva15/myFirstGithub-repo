@@ -1,0 +1,14 @@
+h1{
+    color: rgb(0, 153, 255);
+    width: 500px;
+    border: 1px solid black;
+    border-inline: 1rem solid;
+    text-align: center;
+    border-block-end-color: rgba(50, 155, 220, 0.589);
+    border-top: thick double #32a1ce;
+    border-bottom: thick double #32a1ce;
+   
+}
+body{
+    background-color: rgb(239, 193, 57);
+}
